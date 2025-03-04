@@ -34,3 +34,19 @@ bun run build
 bun lint
 ```
 # car-rental
+
+
+# bun run build
+
+
+# Technologies Used
+•	Vue 3 – JavaScript framework for building UI
+•	Vite – Fast frontend tooling for Vue
+•	Bun.js – Alternative to npm/Yarn for managing packages
+•	Tailwind CSS – Utility-first CSS framework
+•	Daisy UI – Pre-built Tailwind UI components
+•	Vue Router – Client-side routing
+•	ESLint – Code linting and formatting 
+•	WOW.js for scroll animations
+•	Swiper.js for carousels and sliders
+
