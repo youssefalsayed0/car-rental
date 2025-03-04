@@ -1,6 +1,6 @@
 @import './base.css';
 
-section {overflow-x: hidden}
+section {overflow: hidden}
 /* start utils */
 .container {
     @apply mx-auto max-w-[1490px] px-3;
