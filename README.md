@@ -33,10 +33,6 @@ bun run build
 ```sh
 bun lint
 ```
-# car-rental
-
-
-# bun run build
 
 
 # Technologies Used
