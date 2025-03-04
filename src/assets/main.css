@@ -1,0 +1,27 @@
+@import './base.css';
+
+section {overflow-x: hidden}
+/* start utils */
+.container {
+    @apply mx-auto max-w-[1490px] px-3;
+  }
+  
+  .main-p {
+    padding: var(--main-padding);
+  }
+  
+  .main-transition {
+    transition: var(--main-transition);
+  }
+  
+  .main-color {
+    color: var(--main-color);
+  }
+  
+  .hover-main:hover {
+    color: var(--main-color);
+  }
+  .bg-main {
+    background-color: var(--main-color);
+  }
+/* end utils */
