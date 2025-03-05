@@ -19,11 +19,6 @@ import MainHeading from './MainHeading.vue'
         :autoplay="{ delay: 3000, disableOnInteraction: false }"
         :loop="true"
         :slides-per-view="1"
-        :breakpoints="{
-          640: { slidesPerView: 1 },
-          768: { slidesPerView: 1 },
-          1024: { slidesPerView: 1 },
-        }"
         class="!pb-14"
       >
         <SwiperSlide>
