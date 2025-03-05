@@ -15,7 +15,7 @@ import MainHeading from './MainHeading.vue'
 <template>
   <section class="main-p offers" id="offers">
     <div class="container mx-auto">
-      <MainHeading header="Unlock exclusive offers today" subheader="Our Services" />
+      <MainHeading header="Unlock exclusive offers today" subheader="Our Offers" />
 
       <!-- swiper settings -->
       <Swiper
