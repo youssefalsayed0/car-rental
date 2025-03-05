@@ -21,7 +21,7 @@ import MainHeading from './MainHeading.vue'
         :slides-per-view="1"
         :breakpoints="{
           640: { slidesPerView: 1 },
-          768: { slidesPerView: 2 },
+          768: { slidesPerView: 1 },
           1024: { slidesPerView: 1 },
         }"
         class="!pb-14"
