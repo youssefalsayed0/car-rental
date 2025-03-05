@@ -10,7 +10,7 @@ import car4 from '@/assets/images/luxury-collection-img-4.jpg'
 <template>
   <section class="main-p" id="categories">
     <div class="container">
-      <MainHeading header="Explore our perfect and extensive fleet" subheader="Our Services" />
+      <MainHeading header="Explore our perfect and extensive fleet" subheader="Our Categories" />
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
 
